@@ -39,3 +39,24 @@
   }
   \pIVmI
 }
+
+\score{
+  \header {
+    piece = "P4M2"
+  }
+  \pIVmII
+}
+
+\score{
+  \header {
+    piece = "P4M3"
+  }
+  \pIVmIII
+}
+
+\score{
+  \header {
+    piece = "P4M4"
+  }
+  \pIVmIV
+}
