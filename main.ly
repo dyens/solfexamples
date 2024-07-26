@@ -21,7 +21,7 @@
 
 \score{
   \header {
-    piece = "P2M1(TODO)"
+    piece = "P2M1"
   }
   \pIImI
 }
