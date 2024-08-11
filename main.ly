@@ -4,6 +4,8 @@
 \include "2.ly"
 \include "3.ly"
 \include "4.ly"
+\include "5.ly"
+\include "6.ly"
 
 \score{
   \header {
@@ -59,4 +61,32 @@
     piece = "P4M4"
   }
   \pIVmIV
+}
+
+\score{
+  \header {
+    piece = "P5M1"
+  }
+  \pVmI
+}
+
+\score{
+  \header {
+    piece = "P5M2"
+  }
+  \pVmII
+}
+
+\score{
+  \header {
+    piece = "P5M3"
+  }
+  \pVmIII
+}
+
+\score{
+  \header {
+    piece = "P6M1"
+  }
+  \pVImI
 }
