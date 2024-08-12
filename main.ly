@@ -6,6 +6,7 @@
 \include "4.ly"
 \include "5.ly"
 \include "6.ly"
+\include "7.ly"
 
 \score{
   \header {
@@ -89,4 +90,11 @@
     piece = "P6M1"
   }
   \pVImI
+}
+
+\score{
+  \header {
+    piece = "P7M1"
+  }
+  \pVIImI
 }
